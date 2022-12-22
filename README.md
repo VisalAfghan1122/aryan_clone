@@ -4,6 +4,8 @@
 # pkg install python
 # pkg install python2
 # pkg install git
-# git clone 
+# git clone https://github.com/VisalAfghan1122/aryan_clone.git
+# cd aryan_clone
+# ls
 
-s
+
