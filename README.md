@@ -7,5 +7,6 @@
 # git clone https://github.com/VisalAfghan1122/aryan_clone.git
 # cd aryan_clone
 # ls
-
+python aryan_clone.py
+# created by aryan afghan
 
